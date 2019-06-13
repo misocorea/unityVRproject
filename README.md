@@ -1,12 +1,14 @@
 # VR scuba diving Game
 
 
-#### This is a college project, I used unity, AND htc vive, and C++ 
+#### This is a college project, I used unity, and htc vive, and C++ 
 
 
 #### --------------------------------------------------
 
 #### Author : kim miso , kmiso811@gmail.com
+
+### team member : jiyeong Choi, hyejin Jang, kim miso
 
 #### Supervisor : Young - Joo Cho, csjyj@chosun.ac.kr
 
